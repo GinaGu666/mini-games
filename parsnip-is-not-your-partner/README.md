@@ -1,4 +1,4 @@
-# Parsnip Is Not Partner
+# PARSNIP ≠ PARTNER
 
 > 项目代号：`parsnip.dog`  
 > 类型：2.5D 像素风动作闯关 / 类幸存者 / 轻肉鸽  
@@ -25,7 +25,7 @@
 新游戏作为独立项目放在：
 
 ```text
-parsnip-is-not-partner/
+parsnip-is-not-your-partner/
   README.md
   index.html   # 开发阶段创建
 ```
